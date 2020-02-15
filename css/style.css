@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Anton|Coda+Caption:800|Domine:400,700|Vollkorn:400,600,700,900&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Domine', serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: 'Abril Fatface', cursive;
+}
+
+h2,h3 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+}
